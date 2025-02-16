@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499039965743",
+    "project_id": "alienated-ai",
+    "storage_bucket": "alienated-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499039965743:android:fea8826676a8dae2966cda",
+        "android_client_info": {
+          "package_name": "com.aditech.alienatedai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbXdYKYWUwvYNbFe3GOHKV3aVZlhU0_yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
